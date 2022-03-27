@@ -5,15 +5,15 @@
     <img src="src/components/images/projectImg.png" alt="project-img" width="100%" height="auto">
   </a>
 
-  <h3 align="center">My Portfolio</h3>
+  <h3 align="center">Taskify App</h3>
 
   <p align="center">
-    This is fully responsive web based UI using glass morphism techniques. 
+    This is task manager app is an application that lets you plan, organize and prioritize all your tasks with drag and drop functionality, so that you can finish them within the limited time frame and in the most efficient manner. Essentially, as its name suggests, it is an app to manage your tasks efficiently.
     <br />
-    <a href="https://github.com/webronak/my-portfolio"><strong>Explore docs »</strong></a>
+    <a href="https://github.com/webronak/typescript-taskify-app"><strong>Explore docs »</strong></a>
     <br />
     <br />
-    <a href="https://webronak.github.io/my-portfolio/">View Demo</a>
+<!--     <a href="https://webronak.github.io/my-portfolio/">View Demo</a> -->
   </p>
 </p>
 
@@ -21,8 +21,9 @@
 ## Built With
 
 * React js
-* Sass
-* React-router-dom
+* css
+* Typescript
+* react-beautiful-dnd
 
 
 <!-- CONTACT -->
